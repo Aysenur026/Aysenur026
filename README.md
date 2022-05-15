@@ -11,7 +11,7 @@ HEY THERE
 </h1>
 
 
-Merhaba ben Ayşenur Kavas.Mehmet Akif Ersoy Üniversitesi Yönetim Bilişim Sistemleri 4.snıf öğrencisiyim.Front-End ve tasarım alanlarında kendimi geliştirmekteyim.Öğrenmeye açığım ve yeni teknolojik gelişmeleri yakından takip ediyorum.
+:eight_pointed_black_star:Merhaba ben Ayşenur Kavas.Mehmet Akif Ersoy Üniversitesi Yönetim Bilişim Sistemleri 4.snıf öğrencisiyim.Front-End ve tasarım alanlarında kendimi geliştirmekteyim.Öğrenmeye açığım ve yeni teknolojik gelişmeleri yakından takip ediyorum.
 Araştırmak ,öğrenmek ve bunları uygulayabilmek kariyerim adına en büyük tutkum .
 
 
