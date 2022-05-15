@@ -16,14 +16,14 @@ HEY THERE
 Front-End ve tasarım alanlarında kendimi geliştirmekteyim.Öğrenmeye açığım ve yeni teknolojik gelişmeleri yakından takip ediyorum.<br/>
 :sunglasses:Araştırmak ,öğrenmek ve bunları uygulayabilmek kariyerim adına en büyük tutkum .
 
-
- <div id="badges">
+<br/>
+ <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ay%C5%9Fenur-kavas-7bba66224">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
 </div>
-
+<br/><br/>
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
