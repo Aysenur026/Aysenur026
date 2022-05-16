@@ -24,7 +24,7 @@ Front-End ve tasarım alanlarında kendimi geliştirmekteyim.Öğrenmeye açığ
   
 </div>
 <hr/>
-<br/><br/>
+<br/>
 :hammer_and_wrench: Languages and Tools :
 <br/><br/>
 <div>
